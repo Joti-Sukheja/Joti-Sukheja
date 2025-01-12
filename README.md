@@ -1,15 +1,16 @@
-# 👋 Hello, I'm JOTI SUKHEJA  
-🌍 Location: Pakistan 
-📧 Email: joti sukheja
-💼 LinkedIn: www.linkedin.com/in/joti-sukheja-aa85912b7
-🌐 Portfolio: www.jjj  
+## 👋 Hello, I'm JOTI SUKHEJA  
+- 🌍 Location: Pakistan
+- 📧 Email: jotisukheja11@gmail.com
+- 💼 LinkedIn: [Linkedin Profile](www.linkedin.com/in/joti-sukheja-aa85912b7)
+- 🌐 Portfolio: [Portfolio Wbsite]()
 
 ---
 
 ## 🚀 About Me  
 I’m a Data Analyst who loves working with data to find useful insights. I have hands-on experience using tools like Power BI, SQL, and Python to extract meaningful insights and build intuitive dashboards that help businesses make smarter and better decisions.
 
-## 🔑 Key Areas of Expertise  
+
+🔑 Key Areas of Expertise  
 - **Data Cleaning & Preparation**
 - **Exploratory Data Analysis (EDA)**
 - **Dashboard Development**
@@ -49,10 +50,10 @@ I’m a Data Analyst who loves working with data to find useful insights. I have
 ---
 
 ## 🤝 Let’s Collaborate!  
-💡 Passionate about data-driven projects? Let's team up!
-✍️ Open to collaborating on data analysis, visualization, and business intelligence challenges.
-🔑 Explore my repositories and reach out if you're looking for someone in data analytics or business intelligence roles.
+- 💡 Passionate about data-driven projects? Let's team up!
+- ✍️ Open to collaborating on data analysis, visualization, and business intelligence challenges.
+- 🔑 Explore my repositories and reach out if you're looking for someone in data analytics or business intelligence roles.
 
 
-Thank you for visiting my GitHub profile! 
-📩 Let’s connect: jotisukheja11@gmail.com | LinkedIn
+## Thank you for visiting my GitHub profile! 
+📩 Let’s connect: jotisukheja11@gmail.com | [Linkedin Profile](www.linkedin.com/in/joti-sukheja-aa85912b7)
