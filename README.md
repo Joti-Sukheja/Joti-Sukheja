@@ -1,21 +1,19 @@
-# 👋 Hello, I'm [Your Name]  
-🌍 Location: [Your City, Country]  
-📧 Email: [Your Email]  
-💼 LinkedIn: [Your LinkedIn Profile]  
-🌐 Portfolio: [Your Portfolio Link]  
+# 👋 Hello, I'm JOTI SUKHEJA  
+🌍 Location: Pakistan 
+📧 Email: joti sukheja
+💼 LinkedIn: www.linkedin.com/in/joti-sukheja-aa85912b7
+🌐 Portfolio: www.jjj  
 
 ---
 
 ## 🚀 About Me  
-I’m an aspiring **Data Analyst** passionate about uncovering insights from data and creating impactful visualizations. I enjoy exploring real-world datasets and using tools like **[Your Tools]** to tell data-driven stories.  
-
----
+I’m a Data Analyst who loves working with data to find useful insights. I have hands-on experience using tools like Power BI, SQL, and Python to extract meaningful insights and build intuitive dashboards that help businesses make smarter and better decisions.
 
 ## 🔑 Key Areas of Expertise  
-- **Data Cleaning & Preparation**: [Add your expertise]  
-- **Exploratory Data Analysis (EDA)**: [Add your expertise]  
-- **Dashboard Development**: [Add your expertise]  
-- **Statistical Analysis**: [Add your expertise]  
+- **Data Cleaning & Preparation**
+- **Exploratory Data Analysis (EDA)**
+- **Dashboard Development**
+- **Statistical Analysis** 
 
 ---
 
@@ -36,23 +34,25 @@ I’m an aspiring **Data Analyst** passionate about uncovering insights from dat
 ---
 
 ## 🛠️ Technical Skills  
-- **Programming**: [Your Programming Skills, e.g., Python, SQL]  
-- **Data Visualization**: [Your Visualization Tools, e.g., Power BI, Tableau]  
-- **Databases**: [Your Database Tools, e.g., MySQL, PostgreSQL]  
-- **Other Tools**: [Other relevant tools you use, e.g., Power Query, Jupyter Notebooks]  
+- **Programming**:  Python,C++, SQL
+- **Data Visualization**: Power BI, Tableau, Microsoft excel
+- **Databases**:  MySQL, PostgreSQL
+- **Other Tools**: Power Query, Jupyter Notebook
 
 ---
 
 ## 🌱 Current Goals  
-- [Your current learning or project goals.]  
-- [Mention tools or techniques you’re focusing on.]  
-- [Optional: Share plans for content or tutorials you want to create.]  
+- Work on complete data analytics projects that solve real-world problems.
+- Learn more about machine learning to predict trends and make smarter decisions.
+- Get better at explaining data insights through clear and engaging visuals.
 
 ---
 
 ## 🤝 Let’s Collaborate!  
-💡 Interested in working on [specific types of projects]? Let’s connect!  
-✍️ Open to collaborations in [areas you are interested in].  
-📬 Reach out: [Your Email] | [Your LinkedIn Profile]  
+💡 Passionate about data-driven projects? Let's team up!
+✍️ Open to collaborating on data analysis, visualization, and business intelligence challenges.
+🔑 Explore my repositories and reach out if you're looking for someone in data analytics or business intelligence roles.
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect for suggestions or opportunities. 🌟  
+
+Thank you for visiting my GitHub profile! 
+📩 Let’s connect: jotisukheja11@gmail.com | LinkedIn
