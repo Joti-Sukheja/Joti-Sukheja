@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm JOTI SUKHEJA  
 - 🌍 Location: Pakistan
 - 📧 Email: jotisukheja11@gmail.com
-- 💼 LinkedIn: [Linkedin Profile](www.linkedin.com/in/joti-sukheja-aa85912b7)
+- 💼 LinkedIn: [Linkedin Profile](www.linkedin.com/in/joti-sukheja)
 - 🌐 Portfolio: [Portfolio Wbsite]()
 
 ---
