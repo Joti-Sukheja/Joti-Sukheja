@@ -17,20 +17,36 @@ I’m a Data Analyst who loves working with data to find useful insights. I have
 - **Statistical Analysis** 
 
 ---
-
 ## 🌟 Featured Projects  
 
-### 📊 **[Project Title]**  
-**Tools Used**: [Tools like Power BI, Python, SQL, etc.]  
-**Description**: [Brief description of the project, such as objectives and outcomes.]  
-**Key Features**: [Add key highlights, like interactivity or specific analyses.]  
+### 📈 Atliq Promotional Sales Analysis  
+**Tools Used:** Excel,Pivot Tables  
+**Description:**  A detailed analysis of promotional strategies on product and store performance for Atliq, helping optimize future marketing campaigns. The project evaluates the impact of different promotions on revenue and sales growth.  
 
-### 📈 **[Project Title]**  
-**Tools Used**: [Tools like Power BI, Python, SQL, etc.]  
-**Description**: [Brief description of the project, such as objectives and outcomes.]  
-**Key Features**: [Add key highlights, like interactivity or specific analyses.]  
+**Key Features:**  
+- 🏬 Store and product performance analysis using Pivot Tables  
+- 📊 **Multi-page dashboard** for comprehensive data visualization  
+- 💡 Data-driven insights on effective promotions (BOGOF, Cashback) 
 
-📌 **Explore more projects** in my repositories [here](#).  
+🔗 **Repository:** [Atliq Promotional Sales Analysis](https://github.com/Joti-Sukheja/Atliq-Promotion-Sales)
+
+---  
+
+### 📊 Ecommerce Sales Analysis  
+**Tools Used:** SQL, Python, Jupyter Notebook  
+**Description:**  A deep dive into eCommerce sales data, leveraging SQL for querying and Python for visualization. The project answers key business questions related to customer orders, sales performance, and revenue trends.  
+
+**Key Features:**  
+- 📥 Data ingestion from CSV to MySQL database  
+- 🛒 SQL queries for business insights (sales trends, customer retention, revenue ranking)  
+- 📊 Python-based data visualization for in-depth analysis  
+
+🔗 **Repository:** [Ecommerce Sales Analysis](https://github.com/Joti-Sukheja/Ecommerce-Sales-Analysis)
+
+---
+
+🚀 Explore more projects in my repositories [here](https://github.com/Joti-Sukheja?tab=repositories).
+
 
 ---
 
