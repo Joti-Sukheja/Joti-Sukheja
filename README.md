@@ -73,4 +73,4 @@ I’m a Data Analyst who loves working with data to find useful insights. I have
 ---
 
 ## Thank you for visiting my GitHub profile! 
-📩 Let’s connect: jotisukheja11@gmail.com | [Linkedin Profile](www.linkedin.com/in/joti-sukheja-aa85912b7)
+📩 Let’s connect: jotisukheja11@gmail.com | [Linkedin Profile](www.linkedin.com/in/joti-sukheja)
