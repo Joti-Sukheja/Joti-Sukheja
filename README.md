@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm JOTI SUKHEJA  
 - 🌍 Location: Pakistan
 - 📧 Email: jotisukheja11@gmail.com
-- 💼 LinkedIn: [Linkedin Profile](www.linkedin.com/in/joti-sukheja)
+- 💼 LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/joti-sukheja/)
 - 🌐 Portfolio: [Portfolio Wbsite](https://joti-sukheja.dcms.site/)
 
 ---
@@ -73,4 +73,4 @@ I’m a Data Analyst who loves working with data to find useful insights. I have
 ---
 
 ## Thank you for visiting my GitHub profile! 
-📩 Let’s connect: jotisukheja11@gmail.com | [Linkedin Profile](www.linkedin.com/in/joti-sukheja)
+📩 Let’s connect: jotisukheja11@gmail.com | [Linkedin Profile](https://www.linkedin.com/in/joti-sukheja/)
