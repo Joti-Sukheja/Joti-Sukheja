@@ -2,7 +2,7 @@
 - 🌍 Location: Pakistan
 - 📧 Email: jotisukheja11@gmail.com
 - 💼 LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/joti-sukheja/)
-- 🌐 Portfolio: [Portfolio Wbsite](https://joti-sukheja.dcms.site/)
+
 
 ---
 
